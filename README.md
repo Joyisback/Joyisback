@@ -17,7 +17,7 @@ public MyClass {
 } 
 
 ```
-[![20230329-224535.png](https://i.postimg.cc/fL4Sg5X0/IMG-20230607-105350.jpg)](https://postimg.cc/qhsFqkLq)
+[![20230329-224535.png](https://i.postimg.cc/gcg8Gyb1/20230607-195601.jpg)](https://postimg.cc/qhsFqkLq)
 
 </p>
 
