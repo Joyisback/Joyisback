@@ -75,7 +75,7 @@ public MyClass {
 
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/REMEMBER.THIS.NAME.MR.DIPTO)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/REMEMBER.THIS.NAME.MR.DIPTO)
-[![Github](https://img.shields.io/badge/Github-MR.DIPTO-156green?style=for-the-badge&logo=github)](https://github.com/MR-DIPTO-404)
+[![Github](https://img.shields.io/badge/Github-MR.DIPTO-156green?style=for-the-badge&logo=github)](https://github.comJoyisback)
 
 ### ⚙️&nbsp;Coder And Programmer.
 
