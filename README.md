@@ -1,4 +1,4 @@
-    <p align="center"><img src="https://img.shields.io/badge/MADE%20IN ⚡BANGLADESHI-PROGRAMMER⚡-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+    <p align="center"><img src=https://camo.githubusercontent.com/558529216623454d1a9cddc0a1b3742298d75eada4c0ae458d4c7817ad867c1a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d414445253230494e20e29aa142414e474c4144455348492d50524f4752414d4d4552e29aa12d677265656e3f636f6c6f72413d25323366663030303026636f6c6f72423d253233303137653430267374796c653d666c61742d737175617265">
 
 <h3 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="25">
