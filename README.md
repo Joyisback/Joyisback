@@ -8,7 +8,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=👑Hello+World+Im+ALEX JOY👑;+Its+Not+A+Just+Name+Bro⚡;✌️It's+A+Brand✌️;🌳Thank+You+Everyone🌳;💚Love+You+All💚)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=👑Hello+World+Im+ALEXJOY👑;+Its+Not+A+Just+Name+Bro⚡;✌️It's+A+Brand✌️;🌳Thank+You+Everyone🌳;💚Love+You+All💚)](https://git.io/typing-svg)
 ```php
 public MyClass {
     public static void main(String [] args) {
