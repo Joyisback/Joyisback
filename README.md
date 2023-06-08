@@ -59,7 +59,7 @@ public MyClass {
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👑 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [ALEX JOY](https://www.facebook.com/REMEMBER.THIS.NAME.MR.DIPTO)
+- 👑 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [ALEX JOY](https://www.facebook.com/profile.php?id=100093492936673&mibextid=ZbWKwL)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -73,7 +73,7 @@ public MyClass {
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
 
-[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/REMEMBER.THIS.NAME.ALEX JIY)
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)(https://www.facebook.com/profile.php?id=100093492936673&mibextid=ZbWKwL)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me)
 [![Github](https://img.shields.io/badge/Github-Joyisback-156green?style=for-the-badge&logo=github)](https://github.comJoyisback)
 
